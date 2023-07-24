@@ -5,29 +5,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F791E2&width=435&lines=Hey+I'm+Mapel%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)(https://git.io/typing-svg)
 
-Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
-
-🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
+Canadian junior Fullstack developer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from Canada!. 💖
 
 - 💝 Author of multiple open source projects (~50 to date).
-- 💼 Community Manager @ [thirdweb](https://github.com/thirdweb-dev)
-- 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
-- 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
-- 💜 Core @ [Polygon Guild Manila](https://twitter.com/polygonguildmnl)
-- 🔏 Bug bounty hunter in free time.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
+- 💼 Founder Manager @ MapelTech
+- 🤝 Co-Founder @ [Monke.cc](monke.cc)
+- 💜 Female
+- ☕ Coffee lover, turning it into code!
 - 🎯 Wasting my time to save other people's time.
-- 💡 [Learn more about me](https://bio.link/warengonzaga).
 
 ## 🎧 Spotify Playing
 
 [![Christian Pop Music](https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,kotlin,java,mysql,css,docker,md,git,figma,bash,cloudflare,py)
 
 ## 🌏 Co-Founded Tech Communities
 
