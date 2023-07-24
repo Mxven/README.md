@@ -23,11 +23,6 @@ Canadian junior Fullstack developer, opensource developer and advocate, cybersec
 
 ![skills](https://skillicons.dev/icons?i=html,kotlin,java,mysql,css,docker,md,git,figma,bash,cloudflare,py)
 
-## 🌏 Co-Founded Tech Communities
-
-Wanna have chat with me? Join my tech communities!
-
-[![Community](https://discordapp.com/api/guilds/970915199617990707/widget.png?style=banner2)](https://web3philippines.org) [![Community](https://discordapp.com/api/guilds/905496362982981723/widget.png?style=banner2)](https://ossph.org)
 
 ---
 
